@@ -11,9 +11,9 @@ func main() {
 	metadata := client.SnakeMetadataResponse{
 		APIVersion: "1",
 		Author:     "",
-		Color:      "#665ba8",
-		Head:       "default",
-		Tail:       "default",
+		Color:      "#0480d9",
+		Head:       "sand-worm",
+		Tail:       "mlh-gene",
 	}
 
 	portfolio := agent.NewPortfolio(
