@@ -11,3 +11,5 @@ func HeuristicWhateverYouWantItToDo(snapshot agent.GameSnapshot) float64 {
 	
 	return 0 // return the score of the position
 }
+
+// do add 
