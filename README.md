@@ -1,3 +1,7 @@
+# This is archived. Go to [https://github.com/Battle-Bunker/CyphidSnake-MaximTardigrade-New](https://github.com/Battle-Bunker/CyphidSnake-MaximTardigrade-New)
+
+<details>
+  <summary>Old README</summary>
 # Cyphid Snake Starter Project
 
 A Battlesnake client template written in Go using the [Cyphid Snake](https://github.com/Battle-Bunker/cyphid-snake) Battlesnake library from Cyphid Academy's Battle Bunker program. Get started with Battlesnake at [play.battlesnake.com](https://play.battlesnake.com).
@@ -47,3 +51,4 @@ battlesnake play -W 11 -H 11 --name 'Cyphid Snake Starter Project' --url http://
 Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
 
 **Note:** To play games on [play.battlesnake.com](https://play.battlesnake.com) you'll need to deploy your Battlesnake to a live web server OR use a port forwarding tool like [ngrok](https://ngrok.com/) to access your server locally.
+</details>
